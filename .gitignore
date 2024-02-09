@@ -1,0 +1,2 @@
+# Ignorar directorio node_modules del servidor
+node_modules/
